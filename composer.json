@@ -1,0 +1,11 @@
+{
+    "name": "caleeli/phpyse",
+    "description": "Tools to analyse php code",
+    "authors": [
+        {
+            "name": "David callizaya",
+            "email": "davidcallizaya@gmail.com"
+        }
+    ],
+    "require": {}
+}
